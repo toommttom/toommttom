@@ -54,7 +54,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=toommttom&theme=radical&column=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=toommttom&theme=dracula&column=7" alt="GitHub Trophies" />
 </p>
 
 
