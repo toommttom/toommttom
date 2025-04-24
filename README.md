@@ -3,7 +3,7 @@
 ## 💫 About Me
 - 🏢 Currently LLM Developer Intern [@Linkurious](https://linkurious.com/)
 - 🎓 Graduate of ESME Sudria — Digital Transformation Engineer  
-- 🤖 Passionate about doing delightfully silly experiments  
+- 🤖 Passionate about doing silly experiments  
 
 ---
 
