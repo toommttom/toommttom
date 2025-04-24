@@ -61,7 +61,7 @@
 
 
 <img
-  src="https://github-readme-stats-liart-alpha-76.vercel.app/api/top-langs/?layout=compact&hide_border=true&username=toommttom&theme=dark"
+  src="https://github-readme-stats-liart-alpha-76.vercel.app/api/top-langs/?layout=compact&hide_border=true&username=toommttom&theme=dracula"
 />
 
 ---
