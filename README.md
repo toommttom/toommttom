@@ -48,7 +48,7 @@
 
 <p align="center">
 <img 
-  src="https://github-readme-stats-liart-alpha-76.vercel.app/api/top-langs/?layout=compact&hide_border=true&username=toommttom&theme=dracula"
+  src="https://github-readme-stats-liart-alpha-76.vercel.app/api/top-langs/?layout=compact&username=toommttom&theme=dracula"
 />
 </p>
 
