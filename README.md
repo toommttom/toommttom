@@ -53,6 +53,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=toommttom&theme=radical&column=3" alt="GitHub Trophies" />
 </p>
 
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonNomUtilisateur&layout=compact&theme=dark&hide_border=true"
+/>
+
 ---
 
 ## 🔝 Top Contributed Repo
