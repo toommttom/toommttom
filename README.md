@@ -61,7 +61,7 @@
 
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=toommttom&layout=compact&theme=dark&hide_border=true"
+  src="https://github-readme-stats-liart-alpha-76.vercel.app/api/top-langs/?layout=compact&hide_border=true&username=toommttom&theme=dark"
 />
 
 ---
