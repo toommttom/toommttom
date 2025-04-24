@@ -43,12 +43,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toommttom&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-liart-alpha-76.vercel.app/api?username=toommttom&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toommttom&show_icons=true&theme=synthwave" alt="GitHub Stats" />
-</p>
 
 ---
 
