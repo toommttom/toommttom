@@ -53,6 +53,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=toommttom&theme=radical&column=3" alt="GitHub Trophies" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=toommttom&theme=synthwave&column=3" alt="GitHub Trophies" />
+</p>
+
+
+
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=toommttom&layout=compact&theme=dark&hide_border=true"
 />
