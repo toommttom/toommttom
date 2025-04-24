@@ -46,16 +46,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=toommttom&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=toommttom&show_icons=true&theme=synthwave" alt="GitHub Stats" />
+</p>
+
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=toommttom&theme=radical&column=3" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=toommttom&theme=radical&column=5" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=toommttom&theme=synthwave&column=3" alt="GitHub Trophies" />
-</p>
 
 
 
