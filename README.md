@@ -46,20 +46,18 @@
   <img src="https://github-readme-stats-liart-alpha-76.vercel.app/api?username=toommttom&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+<img 
+  src="https://github-readme-stats-liart-alpha-76.vercel.app/api/top-langs/?layout=compact&hide_border=true&username=toommttom&theme=dracula"
+/>
+</p>
+
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=toommttom&theme=dracula&column=8" alt="GitHub Trophies" />
-</p>
-
-
-
-<p align="center">
-<img 
-  src="https://github-readme-stats-liart-alpha-76.vercel.app/api/top-langs/?layout=compact&hide_border=true&username=toommttom&theme=dracula"
-/>
 </p>
 
 ---
