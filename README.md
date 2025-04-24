@@ -65,7 +65,7 @@
 
 ## 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=toommttom&repo=Network_monitoring_dashboard
+  <img src="https://github-readme-stats-liart-alpha-76.vercel.app/api/pin/?username=toommttom&repo=Network_monitoring_dashboard
 &theme=radical" alt="Top Repo" />
 </p>
 
