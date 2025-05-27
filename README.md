@@ -1,5 +1,3 @@
-<!-- 👋 Hey there, I'm [Votre Nom] -->
-
 ## 💫 About Me
 - 🏢 Currently LLM Developer Intern [@Linkurious](https://linkurious.com/)
 - 🎓 Graduate of ESME Sudria — Digital Transformation Engineer  
@@ -24,6 +22,7 @@
   <img alt="TypeScript"      src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="PowerShell" src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=windows-powershell&logoColor=white" />
+  
 </p>
 
 ### ⚛️ Frameworks & Libraries
